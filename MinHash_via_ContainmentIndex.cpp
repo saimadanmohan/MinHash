@@ -4,6 +4,7 @@
 #include<limits.h>
 #include<unordered_map>
 #include<fstream>
+#include <time.h>  
 #include "MurmurHash3.h"
 #include "MinHash.h"
 #include "ContainmentHash.h"
